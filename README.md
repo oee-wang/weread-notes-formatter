@@ -1,4 +1,4 @@
-# 微信读书笔记整形工具 / WeChat Reading Notes Formatter
+# 微信读书笔记整形工具 / WeRead Notes Formatter
 
 > 📌 本工具的整理方法来自 bilibili up 主 **O鲨鱼Oo**。
 
