@@ -1,6 +1,6 @@
 # 微信读书笔记整形工具 / WeRead Notes Formatter
 
-> 📌 本工具的整理方法来自 bilibili up 主 **O鲨鱼Oo**。
+> 📌 本工具的整理方法来自 bilibili up主 **O鲨鱼Oo**。
 
 一个 Node.js 命令行工具，能把从微信读书导出的杂乱笔记，自动整理成结构清晰的 Word 文档。
 *A Node.js command-line tool that turns messy WeChat Reading note exports into clean, structured Word documents.*
@@ -9,7 +9,7 @@
 
 ## 🎯 解决的问题
 
-从微信读书导出笔记时，划线摘录、个人想法、日期标记全部混在一起，没有任何结构，手动整理非常费时：
+从微信读书导出笔记时，划线+想法会重复，日期位置混乱，手动整理非常费时：
 
 ```
 * 2026/05/03 发表想法
